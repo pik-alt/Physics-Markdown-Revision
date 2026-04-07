@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "b41819ec732610ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c28170839dd191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "390f118837ddfe8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gases/Kinetic theory of gasses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kinetic theory of gasses"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "819ac9c0960e5f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "258bfd4aa39a6a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a12a9200ef41e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94bd2a617604f0d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90224e7c6e8b95fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "7158f29a5324da23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7181fad3a9529a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab2e5f8e370070c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gravitational Fields.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gravitational Fields"
+            }
+          },
+          {
+            "id": "971f013ea0fd0b92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Specific heat capacity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Specific heat capacity"
+            }
+          },
+          {
+            "id": "3de3ac5628201356",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94a0ef14cbc5d036",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "448627616c50e76b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Specific heat capacity.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Specific heat capacity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "390f118837ddfe8f",
+  "lastOpenFiles": [
+    "Gases/Gas laws.md",
+    "Topic list.md",
+    "Capacitors.md",
+    "Electric fields.md",
+    "Gravitational Fields.md",
+    "Gases/Kinetic theory of gasses.md",
+    "Uncertainty & Error.md",
+    "Specific heat capacity.md",
+    "Resistivity.md",
+    "Gases/Gases list.md",
+    "Gases/Boltzmann constant.md",
+    "Gases/Root mean squared.md",
+    "images pasted in/Pasted image 20260405170620.png",
+    "images pasted in/Pasted image 20260405165850.png",
+    "Gases",
+    "Untitled.canvas",
+    "2026-02-25.md",
+    "images pasted in/Pasted image 20260225162152.png",
+    "images pasted in/Pasted image 20260225161728.png",
+    "Untitled.base",
+    "images pasted in/Pasted image 20260225163231.png",
+    "images pasted in/Pasted image 20260225164202.png",
+    "images pasted in/Pasted image 20260225172320.png",
+    "images pasted in/Pasted image 20260225171150.png",
+    "images pasted in/Pasted image 20260225170928.png",
+    "gravity fields.md",
+    "images pasted in",
+    "Welcome.md"
+  ]
+}
