@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gases/Kinetic theory of gasses.md",
+                "file": "Electrons, waves and photons/Energy, Power and Resistance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinetic theory of gasses"
+              "title": "Energy, Power and Resistance"
             }
           }
         ]
@@ -185,18 +185,32 @@
   },
   "active": "390f118837ddfe8f",
   "lastOpenFiles": [
-    "Gases/Gas laws.md",
-    "Topic list.md",
-    "Capacitors.md",
-    "Electric fields.md",
-    "Gravitational Fields.md",
-    "Gases/Kinetic theory of gasses.md",
-    "Uncertainty & Error.md",
-    "Specific heat capacity.md",
+    "Electrons, waves and photons/Charge and current.md",
+    "Electrons, waves and photons/Electrons, waves and photons.md",
     "Resistivity.md",
-    "Gases/Gases list.md",
-    "Gases/Boltzmann constant.md",
+    "Gravitational Fields.md",
+    "Electric fields.md",
+    "Capacitors.md",
+    "Electrons, waves and photons/Energy, Power and Resistance.md",
+    "Mean drift Velocity.md",
+    "Uncertainty & Error.md",
+    "Topic list.md",
+    "images pasted in/number density of charge carriers.png",
+    "Electrons, waves and photons/Electrical Circuits.md",
+    "Particles and medical physics.md",
+    "images pasted in/K1L.png",
+    "Gases/Gases.md",
     "Gases/Root mean squared.md",
+    "Gases/Gas laws.md",
+    "Gases/Boltzmann constant.md",
+    "Gases/Kinetic theory of gasses.md",
+    "Electrons, waves and photons",
+    "Newtonian world and Astrophysics.md",
+    "Forces and Motion.md",
+    "Specific heat capacity.md",
+    "Foundations of Physics.md",
+    "Revision list.md",
+    "Gases/Gases list.md",
     "images pasted in/Pasted image 20260405170620.png",
     "images pasted in/Pasted image 20260405165850.png",
     "Gases",
@@ -209,7 +223,6 @@
     "images pasted in/Pasted image 20260225164202.png",
     "images pasted in/Pasted image 20260225172320.png",
     "images pasted in/Pasted image 20260225171150.png",
-    "images pasted in/Pasted image 20260225170928.png",
     "gravity fields.md",
     "images pasted in",
     "Welcome.md"

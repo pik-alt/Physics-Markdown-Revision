@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "theme-override"
-  ]
+  ],
+  "cssTheme": "mono black (monochrome, charcoal)"
 }

@@ -2,7 +2,7 @@ $I = Aven$
 A = cross sectional area
 v = mean electron drift velocity
 e = elementary charge
-n = number density of charge carriers
+n = number density of charge carriers (see: [[Charge and current#Mean drift Velocity]])
 
 Resistivity is the property of a material that determines the resistance of a sample with any given size and shape
 
