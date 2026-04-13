@@ -10,7 +10,7 @@
 # PAPER 2 EXPLORING PHYSICS
 -  [[Foundations of Physics]]
 -  [[Electrons, waves and photons]]
--  Particles and Medical Physics
+-  [[Particles and Medical Physics]]
 
 
 

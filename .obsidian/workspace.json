@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrons, waves and photons/Energy, Power and Resistance.md",
+                "file": "Newtonian world and Astrophysics/Thermal physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy, Power and Resistance"
+              "title": "Thermal physics"
             }
           }
         ]
@@ -185,30 +185,32 @@
   },
   "active": "390f118837ddfe8f",
   "lastOpenFiles": [
-    "Electrons, waves and photons/Charge and current.md",
-    "Electrons, waves and photons/Electrons, waves and photons.md",
-    "Resistivity.md",
-    "Gravitational Fields.md",
-    "Electric fields.md",
-    "Capacitors.md",
-    "Electrons, waves and photons/Energy, Power and Resistance.md",
-    "Mean drift Velocity.md",
-    "Uncertainty & Error.md",
-    "Topic list.md",
-    "images pasted in/number density of charge carriers.png",
-    "Electrons, waves and photons/Electrical Circuits.md",
-    "Particles and medical physics.md",
-    "images pasted in/K1L.png",
-    "Gases/Gases.md",
-    "Gases/Root mean squared.md",
-    "Gases/Gas laws.md",
-    "Gases/Boltzmann constant.md",
-    "Gases/Kinetic theory of gasses.md",
-    "Electrons, waves and photons",
-    "Newtonian world and Astrophysics.md",
-    "Forces and Motion.md",
     "Specific heat capacity.md",
+    "Newtonian world and Astrophysics/Thermal physics.md",
+    "Newtonian world and Astrophysics/Newtonian world and Astrophysics.md",
+    "Newtonian world and Astrophysics",
+    "Topic list.md",
+    "Electrons, waves and photons/Electrons, waves and photons.md",
+    "Forces and Motion.md",
     "Foundations of Physics.md",
+    "Newtonian world and Astrophysics/Gravitational Fields.md",
+    "Particles and medical physics.md",
+    "Capacitors.md",
+    "Electric fields.md",
+    "Electrons, waves and photons/Charge and current.md",
+    "Resistivity.md",
+    "Gases/Root mean squared.md",
+    "Gases/Boltzmann constant.md",
+    "Gases/Gas laws.md",
+    "Gases/Kinetic theory of gasses.md",
+    "Gases/Gases.md",
+    "Uncertainty & Error.md",
+    "Electrons, waves and photons/Energy, Power and Resistance.md",
+    "Electrons, waves and photons/Electrical Circuits.md",
+    "Mean drift Velocity.md",
+    "images pasted in/number density of charge carriers.png",
+    "images pasted in/K1L.png",
+    "Electrons, waves and photons",
     "Revision list.md",
     "Gases/Gases list.md",
     "images pasted in/Pasted image 20260405170620.png",
@@ -223,8 +225,6 @@
     "images pasted in/Pasted image 20260225164202.png",
     "images pasted in/Pasted image 20260225172320.png",
     "images pasted in/Pasted image 20260225171150.png",
-    "gravity fields.md",
-    "images pasted in",
-    "Welcome.md"
+    "images pasted in"
   ]
 }

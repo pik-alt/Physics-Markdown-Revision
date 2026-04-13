@@ -1,5 +1,5 @@
-- Thermal physics
+- [[Thermal physics]]
 - Circular motion
 - Oscillations
-- [[Gravitational fields]]
+- [[Gravitational Fields]]
 - Astrophysics and cosmology
