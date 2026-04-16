@@ -34,7 +34,7 @@ or
 $E=mc\Delta t$ 
 
 
-![[Pasted image 20260225161728.png]]
+![[SHC question.png]]
 
 m = 0.2
 $\Delta t$ = 23 - 79 = 56
@@ -50,7 +50,7 @@ $p = \frac{e}{t}$
 
 ---
 
-![[Pasted image 20260225162152.png]]
+![[specific heat capacity.png]]
 
 Practical to measure SHC of a metal
 

@@ -23,7 +23,7 @@ You can measure G with a torsion balance, the gravitational force of the masses 
 
 Gravity is a vector, meaning that you can perform vector addition to it
 
-![[Pasted image 20260225170928.png]]
+![[gravitational attraction.png]]
 
 $F_{a} = F_{ab} + F_{ac}$
 
@@ -31,7 +31,7 @@ $F_{b} = F_{bc} - F_{ab}$
 
 
 
-![[Pasted image 20260225171150.png]]
+![[orbits question.png]]
 
 d between x and y as shown = $\sqrt{3} R$  
 d between x and y when nearest = R
@@ -51,7 +51,7 @@ $\therefore$
 ## g = $\frac{-GM}{r^2}$ = gravitational field strength
 
 
-![[Pasted image 20260225172320.png]]
+![[Vg over r.png]]
 
 variation of g as you get further from the planet
 

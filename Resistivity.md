@@ -14,13 +14,13 @@ Resistivity is an inherent property of the material
 
 
 
-![[Pasted image 20260225163231.png]]
+![[resistivity question.png]]
 
 d = 0.5mm, r = 0.25mm, A = 6.25E-8 $\pi$ m^2
 
 R = (5E-7 x 0.2) / ( 6.25E-8$\pi$ ) = 0.51$\ohm$ 
 
 
-![[Pasted image 20260225164202.png]]
+![[resistance over length.png]]
 
 

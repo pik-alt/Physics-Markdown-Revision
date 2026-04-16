@@ -2,7 +2,7 @@
 
 $p \propto \frac{1}{V}$ $\therefore$ $pV = constant$ 
 
-![[Pasted image 20260405165850.png]]
+![[pressure volume.png]]
 
 at high temperature the gas is no longer ideal as the gap between particles becomes so small meaning that the gap between particles is no longer negligible compared to the volume of the gas
 
@@ -13,7 +13,7 @@ at high temperature the gas is no longer ideal as the gap between particles beco
 $\frac{p}{T} = contant$,  as you increase the temperature, the molecules move faster and so their change in momentum increases meaning that the force increases, aka the pressure increases
 
 
-![[Pasted image 20260405170620.png]]
+![[pressure temperature.png]]
 
 ---
 **Charles's Law:** For a fixed mass of gas at constant pressure, as temperature increases volume increases proportionally.
