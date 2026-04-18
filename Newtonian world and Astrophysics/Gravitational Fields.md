@@ -6,17 +6,19 @@ They extend to infinity, but get weaker as distance increases
 Gravitational field strength, g, at a point is the force per unit mass on a small object placed at that point
 
 #  g = $\frac{F}{m}$ 
+(f.b.)
 
 The weight of an objects is the force that the gravitational field of the planet exerts on it
 
 ---
 ## Newton's law of gravity
 
-# F = $\frac{- GMm}{r^2}$ 
+# F = $\frac{- GMm}{r^2}$
+(f.b.)
 
 the minus sign indicates that the force is attractive
 
-$G = 6.67 \times 10^{-11}$
+$G = 6.67 \times 10^{-11}$ (f.b.)
 
 You can measure G with a torsion balance, the gravitational force of the masses causes the wire to twist, which you can then calculate from the force
 
@@ -48,7 +50,8 @@ $\therefore$ F when near = 3F
 ## g = $\frac{F}{m}$ 
 
 $\therefore$ 
-## g = $\frac{-GM}{r^2}$ = gravitational field strength
+## g = $\frac{-GM}{r^2}$ = gravitational field strength 
+(f.b.)
 
 
 ![[Vg over r.png]]
@@ -79,7 +82,7 @@ $v = \frac{2\pi r}{T}$
 $v^2 = \frac{4\pi^2r^2}{T^2}$ 
 do some more rearranging:
 
-$T^2 = (\frac{4\pi^2}{GM}) r^3$ 
+$T^2 = (\frac{4\pi^2}{GM}) r^3$ (f.b.)
 
 
 ---
@@ -91,7 +94,7 @@ The gravitational potential $V_{g}$ at a point in a gravitational field is the w
 
 consider the work done moving a mass m a distance r from the Earth, with mass M
 
-$W = Fx \cos \theta$ 
+$W = Fx \cos \theta$ (f.b.)
 $F = -\frac{GMm}{r^2}$  
 
 $\theta = 180$
@@ -99,7 +102,7 @@ $W = \frac{GMm}{r}$
 
 $V_{g}$ is work done per unit mass:
 
-$V_{g} = \frac{GM}{r}$ 
+$V_{g} = \frac{GM}{r}$ (f.b.)
 
 
 ---
@@ -108,6 +111,8 @@ $V_{g} = \frac{GM}{r}$
 The GPE of an object mass m at a point in a gravitational field is the work done to move the mass from infinity to that point
 
 $E = m \times V_{g}$ 
+
+so you get $E=-\frac{GMm}{r}$ (f.b.)
 
 close to the surface:
 $E = mgh$

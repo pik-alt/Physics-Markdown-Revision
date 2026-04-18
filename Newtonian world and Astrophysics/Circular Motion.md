@@ -23,7 +23,7 @@ $\omega = \frac{\Delta\theta}{\Delta t}$
 
 when $\theta = 2\pi, t = T$
 $\therefore$
-$\omega = \frac{2\pi}{T}$ or $\omega = 2\pi f$
+$\omega = \frac{2\pi}{T}$ (f.b.) or $\omega = 2\pi f$ (f.b.)
 
 
 ### Linear Velocity
@@ -33,7 +33,7 @@ This is the straight line velocity, tangent to the circular path
 $v = \frac{s}{t} = \frac{2\pi r(circumference)}{T}$
 
 
-as $\omega = \frac{2\pi}{T}, v=\omega r$
+as $\omega = \frac{2\pi}{T}, v=\omega r$ (f.b.)
 
 ---
 
@@ -42,8 +42,8 @@ as $\omega = \frac{2\pi}{T}, v=\omega r$
 Since velocity is a vector and is constantly changing direction, that means that there's a change in velocity, meaning that there's an acceleration.
 This acceleration acts towards the centre.
 
-$a=\frac{V^{2}}{r}$
-substituting $v=\omega r$ you get $a=\omega^{2}r$
+$a=\frac{V^{2}}{r}$ (f.b.)
+substituting $v=\omega r$ you get $a=\omega^{2}r$ (f.b.)
 
 
 ## Centripetal Force
@@ -54,7 +54,7 @@ Newton's 1st law states that if there's an acceleration, there's a resultant for
 
 It's not an additional force added, it's just whatever force is happening to act towards the centre
 
-$F=\frac{mv^{2}}{r} \text{ or } F=m\omega^{2}r$ 
+$F=\frac{mv^{2}}{r} \text{(f.b.)} \text{ or } F=m\omega^{2}r$ (f.b.)
 
 This is the image in my notes used for all of these terms
 ![[circular motion (1).pdf]]

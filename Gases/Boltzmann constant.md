@@ -1,14 +1,14 @@
 
 The Boltzmann constant $k$ relates the mean kinetic energy of gas molecules at temperature T
 
-$E = \frac{3}{2}kT$    $k = 1.38\times {10}^{-23}JK^{-1}$
+$E = \frac{3}{2}kT$ (f.b.)   $k = 1.38\times {10}^{-23}JK^{-1}$ (f.b.)
 
-$pV = NkT$ (N is the number of molecules while n is the number of moles)
+$pV = NkT$ (f.b.) (N is the number of molecules while n is the number of moles)
 
 
 you can learn how to derive more complicated formulas but its really annoying and unnecessary, you can just look at your formula book
 
-$pV = \frac{1}{3}Nm \bar{c^{2}}$ 
+$pV = \frac{1}{3}Nm \bar{c^{2}}$  (f.b.)
 
 which we can combine with the previous  $pV = NkT$  to get
 

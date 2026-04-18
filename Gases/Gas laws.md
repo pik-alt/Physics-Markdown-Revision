@@ -39,7 +39,7 @@ $\frac{pV}{T} = constant$ (for fixed mass of an ideal gas)
 
 the constant is proportional to the number of moles (n) and the molar mass constant (R)
 
-$pV = nRT$
+$pV = nRT$ (f.b.)
 
-$R = 8.31JK^{-1}mol^{-1}$
+$R = 8.31JK^{-1}mol^{-1}$ (f.b.)
 

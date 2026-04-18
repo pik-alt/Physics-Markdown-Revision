@@ -2,4 +2,4 @@
 - [[Circular motion]]
 - [[Oscillations]]
 - [[Gravitational Fields]]
-- Astrophysics and cosmology
+- [[Astrophysics and cosmology]]

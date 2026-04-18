@@ -22,7 +22,7 @@ $x = A\cos\theta$
 
 $\theta = \omega t$
 
-$\therefore x=A\cos\omega t$
+$\therefore x=A\cos\omega t$ (f.b.)
 
 One derivation (which I don't fully understand except through calculus) later
 
@@ -59,7 +59,7 @@ still more shit to do
 $x = A\cos\omega t \text{  and:  } a_{x} = -\omega^{2}A\cos\omega t$
 
 $\therefore$
-$a_{x}=-\omega^{2}x$
+$a_{x}=-\omega^{2}x$ (f.b.)
 
 so:
 - Acceleration is directly proportional to the displacement
@@ -99,7 +99,7 @@ basically no matter from where you start the pendulum swing, it will always take
 
 This is because as you increase the amplitude, you're allowing the pendulum to swing faster, making up for the lost time it needs to cover the distance
 
-$v = \pm \omega \sqrt{ A^{2} -x^{2} }$
+$v = \pm \omega \sqrt{ A^{2} -x^{2} }$ (f.b.)
 
 ---
 ## Energy with SHM

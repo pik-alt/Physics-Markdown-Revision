@@ -2,13 +2,13 @@ Electric current is the flow of charge through wires and components. Electrons f
 
 The size of electric current is the rate of flow of electric charge Q
 
-$Q = I \times t$
+$Q = I \times t$ (f.b.)
 Charge, Q, in Coulombs, C
 Current, I, in Amps, A
 Time, t, in Seconds, s
 
 
-Millikan's oil drop experiment found that  charge was always a whole number multiple of the fundamental charge, e, ($1.6\times {10}^{-19} C$)
+Millikan's oil drop experiment found that  charge was always a whole number multiple of the fundamental charge, e, ($1.6\times {10}^{-19} C$) (f.b.)
 
 \* Real current, but for nearly everything you use conventional current because physicists don't know how to let go and admit they were wrong once
 
@@ -76,7 +76,7 @@ Electrons average velocity is very slow (< 1mm $s^{-1}$), but they respond so ra
 
 The mean drift velocity is the mean displacement the free electrons travel per unit time between collisions towards the positive terminal
 
-$I = Aven$ 
+$I = Aven$ (f.b.)
 A = cross sectional area
 v = mean electron drift velocity
 e = elementary charge

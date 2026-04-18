@@ -1,4 +1,4 @@
-$I = Aven$ 
+$I = Aven$ (f.b.)
 A = cross sectional area
 v = mean electron drift velocity
 e = elementary charge
@@ -6,7 +6,7 @@ n = number density of charge carriers (see: [[Charge and current#Mean drift Velo
 
 Resistivity is the property of a material that determines the resistance of a sample with any given size and shape
 
-# $R = \frac{\rho L}{A}$ $\therefore$  $\rho$ = $\frac{R A}{L}$ 
+# $R = \frac{\rho L}{A}$ (f.b.) $\therefore$  $\rho$ = $\frac{R A}{L}$ 
 
 
 Resistivity is an inherent property of the material

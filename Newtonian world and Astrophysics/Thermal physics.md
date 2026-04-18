@@ -27,11 +27,11 @@ As you heat a body, you increase either the kinetic or potential energy of the p
 
 ## Specific heat capacity
 
-SHC is the amount of heat required per unit mass to change its temperature by 1 degree
+**SHC is the amount of heat required per unit mass to change its temperature by 1 degree**
 
 $c = \frac{Q}{m \cdot \Delta t}$
 or
-$E=mc\Delta t$ 
+$E=mc\Delta t$ (f.b.)
 
 
 ![[SHC question.png]]
