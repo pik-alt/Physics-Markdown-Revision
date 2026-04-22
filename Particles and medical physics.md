@@ -1,5 +1,0 @@
-- [[Capacitors]]
-- [[Electric fields]]
-- Electromagnetism
-- Nuclear and particle physics
-- Medical imaging

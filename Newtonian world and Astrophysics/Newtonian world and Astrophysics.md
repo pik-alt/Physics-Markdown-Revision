@@ -2,4 +2,5 @@
 - [[Circular motion]]
 - [[Oscillations]]
 - [[Gravitational Fields]]
-- [[Astrophysics and cosmology]]
+- [[Astrophysics and Cosmology 1]]
+- [[Astrophysics and cosmology 2]]

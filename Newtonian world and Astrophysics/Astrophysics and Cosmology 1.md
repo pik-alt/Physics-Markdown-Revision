@@ -52,7 +52,7 @@ There is still some hydrogen left in the "shell" of the star, however, which beg
 The shell gradually leaves, leaving behind a white dwarf which are extremely dense.
 **However this only happens below the critical mass, known as the Chandrasekhar limit of $1.44M_{\odot}$**
 
-Red giants, although cooler, have more surface area and so are more luminous, moving up-right on a HR-diagram ([[Astrophysics and Cosmology#HR-diagram]]).
+Red giants, although cooler, have more surface area and so are more luminous, moving up-right on a HR-diagram ([[Astrophysics and Cosmology 1#HR-diagram]]).
 
 ### $> 10M_{\odot}$
 
@@ -117,3 +117,56 @@ also two types of line spectra!
   ![[Absorption lines.png]]
 
 In stars, we see absorption spectra, as the core releases a continuous spectrum and certain frequencies of light are "caught" in the outer layer, that they get de-excited and those photons get scattered.
+
+## Analysing starlight
+
+Required reading [[Young's double slits]]
+
+**Diffraction gratings contain many evenly spaced slits that produce bright and dark fringes which are *sharper* than from double slits**
+
+The central bright fringe has order 0
+then the bright fringes either side have order 1 and so on
+
+The formula to find the maxima or bright fringes, you use:
+$d\sin\theta=n\lambda$
+
+$d = \text{distance between slits}$
+$\lambda = \text{wavelength}$
+$n = \text{order peak}$
+$\theta = \text{angle between bright fringe and central beam}$
+
+diffraction gratings are usually given by their "lines per millimetre"
+
+So if a grating has 300 lines per mm, that means that the distance between lines is $\frac{1}{300}$mm, which you then convert to metres to find $d$
+
+We can send starlight through a diffraction grating and the different components get split up according to $d\sin\theta = n\lambda$, which reveals the spectras.
+
+## Blackbody radiation
+
+**A black-body is an idealised object that absorbs all the electromagnetic radiation incident on it and at a specific temperature in thermal equilibrium emits a characteristic distribution of wavelengths**
+
+in essence, it absorbs all em-radiation and emits all wavelengths of em-radiation.
+
+![[blackbody chart.png]]
+
+This chart shows how, at different temperature, the intensity of each wavelength of light varies. As you get hotter, the peak moves more to the left, or shorter wavelength as well as higher up.
+
+**Wien's displacement law states that the wavelength $\lambda_{\text{max}}$ at which the intensity of a black-body is maximum is inversely proportional to the temperature (in kelvin)**
+remember its always kelvin
+
+written out:
+$\lambda_{\text{max}} \propto \frac{1}{T}$ (f.b.)
+
+The true relationship is: $\lambda_{\text{max}}T = 2.9\times {10}^{-3}mK$ (that's metres kelvin)
+
+**Stefan's law states that the total power radiated per unit surface area of a black body (luminosity) is directly proportional to the fourth power of its absolute temperature**
+
+$L=4\pi r^{2}\sigma T^{4}$ (f.b.)
+
+$L = \text{Luminosity (W)}$
+$\sigma = \text{Stefan's constant = }5.67\times {10}^{-8}Wm^{-2}K^{-4}$ (f.b.)
+$r = \text{star radius (m)}$
+$T = \text{surface temperature (K)}$
+
+
+continued in [[Astrophysics and Cosmology 2]] cause this is a long ass topic
