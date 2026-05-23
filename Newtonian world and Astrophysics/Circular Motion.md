@@ -17,7 +17,7 @@ Frequency $f$ is $\frac{1}{T}$, therefore $\theta = 2\pi tf$
 ---
 ## Angular Velocity
 
-**Angular velocity $\omega$ is the rate of change of angle, in rad $s^{-1}$ **
+**Angular velocity $\omega$ is the rate of change of angle, in rad $s^{-1}$ 
 
 $\omega = \frac{\Delta\theta}{\Delta t}$
 
