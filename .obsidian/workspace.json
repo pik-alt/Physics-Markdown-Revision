@@ -39,18 +39,64 @@
             "id": "62cc0f78ccbbb769",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images pasted in/LDR practical.png"
+              },
+              "icon": "lucide-image",
+              "title": "LDR practical"
+            }
+          },
+          {
+            "id": "f0c9781f37df2696",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images pasted in/LDR practical.png"
+              },
+              "icon": "lucide-image",
+              "title": "LDR practical"
+            }
+          },
+          {
+            "id": "ffecb36c43e51345",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrons, waves and photons/Energy, Power and Resistance.md",
+                "file": "Electrons, waves and photons/Electrical Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy, Power and Resistance"
+              "title": "Electrical Circuits"
+            }
+          },
+          {
+            "id": "e789274339015520",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images pasted in/k2l series loop.png"
+              },
+              "icon": "lucide-image",
+              "title": "k2l series loop"
+            }
+          },
+          {
+            "id": "fbdd27ffa4a8a481",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -210,27 +256,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "62cc0f78ccbbb769",
+  "active": "fbdd27ffa4a8a481",
   "lastOpenFiles": [
-    "Pasted image 20260523182037.png",
-    "LDR practical.png",
-    "Thermistor IV.png",
+    "Electrons, waves and photons/Electrical Circuits.md",
+    "Meet potential divider!.png",
+    "Meet potential man.png",
+    "Particles and medical physics/Particles and medical physics.md",
+    "Internal resistance.png",
+    "Simple resistor.png",
+    "complex resistor.png",
+    "Young's double slits.md",
+    "REMINDERS OR TODO.md",
+    "images pasted in/crude emf thing k2l.png",
+    "images pasted in/k2l series loop.png",
     "Electrons, waves and photons/Charge and current.md",
     "Electrons, waves and photons/Energy, Power and Resistance.md",
-    "Electrons, waves and photons/Electrical Circuits.md",
+    "images pasted in/K2L loops.png",
+    "images pasted in/Thermistor IV.png",
+    "images pasted in/LDR practical.png",
+    "Forces and Motion.md",
+    "Particles and medical physics/Capacitors.md",
+    "Electrons, waves and photons/Quantum physics.md",
     "Electrons, waves and photons/Waves.md",
     "Electrons, waves and photons/Electrons, waves and photons.md",
     "Resistivity.md",
-    "images pasted in/Diode IV.png",
-    "images pasted in/IV practical.png",
-    "images pasted in/bulb IV.png",
-    "images pasted in/IV ideal.png",
-    "images pasted in/Electron gun.png",
-    "images pasted in/Circuit sumbols.png",
-    "Pasted image 20260523171919.png",
     "Uncertainty & Error.md",
     "Foundations of Physics.md",
-    "Forces and Motion.md",
     "Newtonian world and Astrophysics/Astrophysics and Cosmology 1.md",
     "Newtonian world and Astrophysics/Oscillations.md",
     "Newtonian world and Astrophysics/Gravitational Fields.md",
@@ -238,16 +289,10 @@
     "Newtonian world and Astrophysics/Circular Motion.md",
     "Newtonian world and Astrophysics/Thermal physics.md",
     "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
-    "Young's double slits.md",
     "Particles and medical physics/Medical imaging.md",
     "Particles and medical physics/Nuclear and particle physics.md",
     "Particles and medical physics/Electromagnetism.md",
-    "Particles and medical physics/Particles and medical physics.md",
     "Particles and medical physics/Electric fields.md",
-    "Particles and medical physics/Capacitors.md",
-    "Electrons, waves and photons/Quantum physics.md",
-    "Gases/Boltzmann constant.md",
-    "images pasted in/Hubble graph.png",
     "Particles and medical physics",
     "images pasted in/circular motion (1).pdf",
     "Newtonian world and Astrophysics",
