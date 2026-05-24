@@ -4,99 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "60c28170839dd191",
+        "id": "d5b874b96caefdae",
         "type": "tabs",
         "children": [
           {
-            "id": "390f118837ddfe8f",
+            "id": "3d86f64234674dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newtonian world and Astrophysics/Astrophysics and Cosmology 1.md",
+                "file": "Uncertainty & Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Astrophysics and Cosmology 1"
+              "title": "Uncertainty & Error"
             }
           },
           {
-            "id": "0d10518bc12b1a21",
+            "id": "25e954c50fe9f1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrons, waves and photons/Energy, Power and Resistance.md",
+                "file": "Uncertainty & Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy, Power and Resistance"
+              "title": "Uncertainty & Error"
             }
           },
           {
-            "id": "62cc0f78ccbbb769",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images pasted in/LDR practical.png"
-              },
-              "icon": "lucide-image",
-              "title": "LDR practical"
-            }
-          },
-          {
-            "id": "f0c9781f37df2696",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images pasted in/LDR practical.png"
-              },
-              "icon": "lucide-image",
-              "title": "LDR practical"
-            }
-          },
-          {
-            "id": "ffecb36c43e51345",
+            "id": "250ff5657a6085fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrons, waves and photons/Electrical Circuits.md",
+                "file": "Electrons, waves and photons/Quantum physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electrical Circuits"
-            }
-          },
-          {
-            "id": "e789274339015520",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images pasted in/k2l series loop.png"
-              },
-              "icon": "lucide-image",
-              "title": "k2l series loop"
-            }
-          },
-          {
-            "id": "fbdd27ffa4a8a481",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Quantum physics"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 268.5
   },
   "right": {
     "id": "7158f29a5324da23",
@@ -169,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrons, waves and photons/Quantum physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Quantum physics"
             }
           },
           {
@@ -229,21 +184,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Electrons, waves and photons/Quantum physics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Quantum physics"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,43 +210,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "fbdd27ffa4a8a481",
+  "active": "250ff5657a6085fe",
   "lastOpenFiles": [
-    "Electrons, waves and photons/Electrical Circuits.md",
-    "Meet potential divider!.png",
-    "Meet potential man.png",
-    "Particles and medical physics/Particles and medical physics.md",
-    "Internal resistance.png",
-    "Simple resistor.png",
-    "complex resistor.png",
-    "Young's double slits.md",
-    "REMINDERS OR TODO.md",
-    "images pasted in/crude emf thing k2l.png",
-    "images pasted in/k2l series loop.png",
-    "Electrons, waves and photons/Charge and current.md",
-    "Electrons, waves and photons/Energy, Power and Resistance.md",
-    "images pasted in/K2L loops.png",
-    "images pasted in/Thermistor IV.png",
-    "images pasted in/LDR practical.png",
-    "Forces and Motion.md",
-    "Particles and medical physics/Capacitors.md",
+    "Electrons, waves and photons/Waves 2.md",
     "Electrons, waves and photons/Quantum physics.md",
-    "Electrons, waves and photons/Waves.md",
+    "Electrons, waves and photons/Waves 1.md",
+    "Electrons, waves and photons/Electrical Circuits.md",
+    "Electrons, waves and photons/Energy, Power and Resistance.md",
+    "Electrons, waves and photons/Charge and current.md",
     "Electrons, waves and photons/Electrons, waves and photons.md",
-    "Resistivity.md",
+    "Topic list.md",
     "Uncertainty & Error.md",
     "Foundations of Physics.md",
+    "Forces and Motion.md",
+    "Young's double slits.md",
+    "resistance over length.png.md",
+    "Resistivity.md",
+    "images pasted in/Pasted image 20260524165702.png",
+    "images pasted in/String harmonics.png",
+    "images pasted in/complex resistor.png",
+    "Particles and medical physics/Capacitors.md",
+    "Particles and medical physics/Electric fields.md",
+    "Particles and medical physics/Particles and medical physics.md",
+    "Particles and medical physics/Electromagnetism.md",
+    "Gases/Root mean squared.md",
+    "Gases/Gases.md",
+    "Gases/Gas laws.md",
+    "Gases/Boltzmann constant.md",
+    "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
     "Newtonian world and Astrophysics/Astrophysics and Cosmology 1.md",
     "Newtonian world and Astrophysics/Oscillations.md",
-    "Newtonian world and Astrophysics/Gravitational Fields.md",
-    "Newtonian world and Astrophysics/Newtonian world and Astrophysics.md",
     "Newtonian world and Astrophysics/Circular Motion.md",
-    "Newtonian world and Astrophysics/Thermal physics.md",
-    "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
-    "Particles and medical physics/Medical imaging.md",
-    "Particles and medical physics/Nuclear and particle physics.md",
-    "Particles and medical physics/Electromagnetism.md",
-    "Particles and medical physics/Electric fields.md",
+    "images pasted in/2 harmonic open.png",
+    "images pasted in/1 harmonic open.png",
+    "images pasted in/5 harmonic.png",
+    "images pasted in/3 harmonic.png",
+    "images pasted in/1 harmonic.png",
+    "images pasted in/Simple resistor.png",
+    "images pasted in/standing phase difference.png",
     "Particles and medical physics",
     "images pasted in/circular motion (1).pdf",
     "Newtonian world and Astrophysics",

@@ -120,7 +120,7 @@ In stars, we see absorption spectra, as the core releases a continuous spectrum 
 
 ## Analysing starlight
 
-Required reading [[Young's double slits]]
+Required reading [[Waves 2#Young's double slit experiment]]
 
 **Diffraction gratings contain many evenly spaced slits that produce bright and dark fringes which are *sharper* than from double slits**
 

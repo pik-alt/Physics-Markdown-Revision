@@ -1,5 +1,6 @@
 - [[Charge and current]]
 - [[Energy, Power and Resistance]]
 - [[Electrical circuits]]
-- [[Waves]]
+- [[Waves 1]]
+- [[Waves 2]]
 - [[Quantum physics]]
