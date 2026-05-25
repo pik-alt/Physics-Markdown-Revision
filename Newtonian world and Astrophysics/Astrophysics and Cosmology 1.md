@@ -94,6 +94,8 @@ Electrons cannot exist between energy levels.
 
 Potential energy increases as you get further away from the nucleus, like on Earth when you go higher and higher up.
 
+Electrons can become excited by absorbing an electron of the energy precisely equal to the difference between levels ([[Quantum physics]])
+
 Electrons don't like to be excited (killjoys), so they de-excite (move down an energy level)
 and release a photon corresponding to the energy difference between the levels.
 

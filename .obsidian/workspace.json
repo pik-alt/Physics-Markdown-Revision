@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d86f64234674dac",
+            "id": "f000d3573bbfdf9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncertainty & Error.md",
+                "file": "Electrons, waves and photons/Electrons, waves and photons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uncertainty & Error"
-            }
-          },
-          {
-            "id": "25e954c50fe9f1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uncertainty & Error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uncertainty & Error"
-            }
-          },
-          {
-            "id": "250ff5657a6085fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrons, waves and photons/Quantum physics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quantum physics"
+              "title": "Electrons, waves and photons"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrons, waves and photons/Quantum physics.md",
+                "file": "Electrons, waves and photons/Electrons, waves and photons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quantum physics"
+              "title": "Backlinks for Electrons, waves and photons"
             }
           },
           {
@@ -197,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,44 +182,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "250ff5657a6085fe",
+  "active": "f000d3573bbfdf9c",
   "lastOpenFiles": [
-    "Electrons, waves and photons/Waves 2.md",
+    "Particles and medical physics/Medical imaging.md",
     "Electrons, waves and photons/Quantum physics.md",
+    "Uncertainty & Error.md",
+    "Particles and medical physics/Nuclear and particle physics.md",
+    "Particles and medical physics/Electromagnetism.md",
+    "Particles and medical physics/Electric fields.md",
+    "Particles and medical physics/Capacitors.md",
+    "Particles and medical physics/Particles and medical physics.md",
+    "Capacitor.png",
+    "Electrons, waves and photons/Waves 2.md",
     "Electrons, waves and photons/Waves 1.md",
     "Electrons, waves and photons/Electrical Circuits.md",
     "Electrons, waves and photons/Energy, Power and Resistance.md",
     "Electrons, waves and photons/Charge and current.md",
     "Electrons, waves and photons/Electrons, waves and photons.md",
     "Topic list.md",
-    "Uncertainty & Error.md",
     "Foundations of Physics.md",
     "Forces and Motion.md",
+    "images pasted in/EK against F.png",
+    "Newtonian world and Astrophysics/Gravitational Fields.md",
+    "Newtonian world and Astrophysics/Astrophysics and Cosmology 1.md",
+    "Newtonian world and Astrophysics/Oscillations.md",
+    "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
+    "images pasted in/Gold leaf electroscope.png",
+    "images pasted in/photon.png",
     "Young's double slits.md",
     "resistance over length.png.md",
     "Resistivity.md",
     "images pasted in/Pasted image 20260524165702.png",
     "images pasted in/String harmonics.png",
     "images pasted in/complex resistor.png",
-    "Particles and medical physics/Capacitors.md",
-    "Particles and medical physics/Electric fields.md",
-    "Particles and medical physics/Particles and medical physics.md",
-    "Particles and medical physics/Electromagnetism.md",
     "Gases/Root mean squared.md",
     "Gases/Gases.md",
-    "Gases/Gas laws.md",
-    "Gases/Boltzmann constant.md",
-    "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
-    "Newtonian world and Astrophysics/Astrophysics and Cosmology 1.md",
-    "Newtonian world and Astrophysics/Oscillations.md",
-    "Newtonian world and Astrophysics/Circular Motion.md",
     "images pasted in/2 harmonic open.png",
     "images pasted in/1 harmonic open.png",
     "images pasted in/5 harmonic.png",
-    "images pasted in/3 harmonic.png",
-    "images pasted in/1 harmonic.png",
-    "images pasted in/Simple resistor.png",
-    "images pasted in/standing phase difference.png",
     "Particles and medical physics",
     "images pasted in/circular motion (1).pdf",
     "Newtonian world and Astrophysics",
