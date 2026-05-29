@@ -73,7 +73,7 @@ The frequency remains constant
 
 The wavefronts remain continuous across the boundary and so the wave changes direction.
 
-https://www.youtube.com/watch?v=KTzGBJPuJwM&t=33
+[Diffraction animation](https://www.youtube.com/watch?v=KTzGBJPuJwM&t=33)
 
 Here's a very good animation of that
 
@@ -88,7 +88,7 @@ There is also always some partial reflections
 
 **Diffraction is where waves spread out as they pass through a gap or travel around an obstacle**
 
-https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html
+[Phet simulation](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html)
 
 $\lambda,f \text{ and } v \text{ remain constant}$
 

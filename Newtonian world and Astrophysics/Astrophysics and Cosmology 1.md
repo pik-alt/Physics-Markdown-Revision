@@ -21,7 +21,7 @@ These are the steps for a star to form:
    
 6. at ~10MK Hydrogen overcomes its electromagnetic repulsion, allowing it to fuse and becoming a main sequence star
 
-[[Nuclear Fusion]] occurs within the star, fusing hydrogen into helium which produces a radiation pressure from the emitted photons and a gas pressure from the nuclei themselves, both of which prevent the star from collapsing in on itself from it's own gravity
+	[[Nuclear and particle physics#Fusion |Nuclear Fusion]] occurs within the star, fusing hydrogen into helium which produces a radiation pressure from the emitted photons and a gas pressure from the nuclei themselves, both of which prevent the star from collapsing in on itself from it's own gravity
 
 The star is at equilibrium once the outward pressure is equal to the gravitational pressure.
 
@@ -52,7 +52,7 @@ There is still some hydrogen left in the "shell" of the star, however, which beg
 The shell gradually leaves, leaving behind a white dwarf which are extremely dense.
 **However this only happens below the critical mass, known as the Chandrasekhar limit of $1.44M_{\odot}$**
 
-Red giants, although cooler, have more surface area and so are more luminous, moving up-right on a HR-diagram ([[Astrophysics and Cosmology 1#HR-diagram]]).
+Red giants, although cooler, have more surface area and so are more luminous, moving up-right on a [[Astrophysics and Cosmology 1#HR-diagram|HR-diagram]].
 
 ### $> 10M_{\odot}$
 
@@ -94,7 +94,7 @@ Electrons cannot exist between energy levels.
 
 Potential energy increases as you get further away from the nucleus, like on Earth when you go higher and higher up.
 
-Electrons can become excited by absorbing an electron of the energy precisely equal to the difference between levels ([[Quantum physics]])
+Electrons can become excited by absorbing an electron of the energy precisely equal to the difference between levels (see: [[Quantum physics]])
 
 Electrons don't like to be excited (killjoys), so they de-excite (move down an energy level)
 and release a photon corresponding to the energy difference between the levels.
@@ -122,7 +122,7 @@ In stars, we see absorption spectra, as the core releases a continuous spectrum 
 
 ## Analysing starlight
 
-Required reading [[Waves 2#Young's double slit experiment]]
+Required reading: [[Waves 2#Young's double slit experiment|Young's double slit experiment]]
 
 **Diffraction gratings contain many evenly spaced slits that produce bright and dark fringes which are *sharper* than from double slits**
 

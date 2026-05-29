@@ -44,7 +44,7 @@ the way I remember this is that lots of small cats (lots of small because like p
 
 ## Kirchoff's 1'st law
 
-also see Kirchoff's 2nd law ([[Electrical Circuits#Kirchoff's Laws#]])
+also see [[Electrical Circuits#Kirchoff's Laws|Kirchoff's 2nd law]]
 
 Kirchoff's 1st law: For any point in an electrical circuit, the sum of currents into that point is the sum of currents out of that point
 

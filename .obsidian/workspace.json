@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f000d3573bbfdf9c",
+            "id": "fb4d5cd211fb649d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrons, waves and photons/Electrons, waves and photons.md",
+                "file": "Particles and medical physics/Capacitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electrons, waves and photons"
+              "title": "Capacitors"
+            }
+          },
+          {
+            "id": "a16104ffdc6bf7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astrophysics and Cosmology 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redsh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 287.5
   },
   "right": {
     "id": "7158f29a5324da23",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrons, waves and photons/Electrons, waves and photons.md",
+                "file": "Particles and medical physics/Nuclear and particle physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Electrons, waves and photons"
+              "title": "Backlinks for Nuclear and particle physics"
             }
           },
           {
@@ -182,46 +197,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "f000d3573bbfdf9c",
+  "active": "a16104ffdc6bf7b9",
   "lastOpenFiles": [
-    "Particles and medical physics/Medical imaging.md",
-    "Electrons, waves and photons/Quantum physics.md",
-    "Uncertainty & Error.md",
-    "Particles and medical physics/Nuclear and particle physics.md",
-    "Particles and medical physics/Electromagnetism.md",
-    "Particles and medical physics/Electric fields.md",
-    "Particles and medical physics/Capacitors.md",
-    "Particles and medical physics/Particles and medical physics.md",
-    "Capacitor.png",
-    "Electrons, waves and photons/Waves 2.md",
-    "Electrons, waves and photons/Waves 1.md",
-    "Electrons, waves and photons/Electrical Circuits.md",
-    "Electrons, waves and photons/Energy, Power and Resistance.md",
-    "Electrons, waves and photons/Charge and current.md",
-    "Electrons, waves and photons/Electrons, waves and photons.md",
-    "Topic list.md",
-    "Foundations of Physics.md",
-    "Forces and Motion.md",
-    "images pasted in/EK against F.png",
-    "Newtonian world and Astrophysics/Gravitational Fields.md",
     "Newtonian world and Astrophysics/Astrophysics and Cosmology 1.md",
     "Newtonian world and Astrophysics/Oscillations.md",
+    "Newtonian world and Astrophysics/Circular Motion.md",
+    "Newtonian world and Astrophysics/Thermal physics.md",
+    "Newtonian world and Astrophysics/Newtonian world and Astrophysics.md",
+    "Newtonian world and Astrophysics/Gravitational Fields.md",
+    "Particles and medical physics/Medical imaging.md",
+    "Particles and medical physics/Nuclear and particle physics.md",
+    "Particles and medical physics/Electromagnetism.md",
+    "Particles and medical physics/Particles and medical physics.md",
+    "Particles and medical physics/Electric fields.md",
+    "Electrons, waves and photons/Charge and current.md",
+    "Particles and medical physics/Capacitors.md",
+    "Uncertainty & Error.md",
+    "images pasted in/Capactior field fliens.png",
+    "Electrons, waves and photons/Waves 1.md",
+    "Topic list.md",
+    "Foundations of Physics.md",
+    "REMINDERS OR TODO.md",
+    "images pasted in/Xray gun.png",
+    "images pasted in/Doppler imaging.png",
     "Newtonian world and Astrophysics/Astrophysics and Cosmology 2.md",
-    "images pasted in/Gold leaf electroscope.png",
-    "images pasted in/photon.png",
-    "Young's double slits.md",
-    "resistance over length.png.md",
-    "Resistivity.md",
-    "images pasted in/Pasted image 20260524165702.png",
-    "images pasted in/String harmonics.png",
-    "images pasted in/complex resistor.png",
-    "Gases/Root mean squared.md",
-    "Gases/Gases.md",
-    "images pasted in/2 harmonic open.png",
-    "images pasted in/1 harmonic open.png",
-    "images pasted in/5 harmonic.png",
-    "Particles and medical physics",
+    "images pasted in/B-Scan.png",
+    "images pasted in/A-scan.png",
+    "images pasted in/Ultrasound Transducer.png",
+    "images pasted in/Piezoelectric crystal.png",
+    "images pasted in/alzheimers pet scan.png",
+    "images pasted in/PET scan.png",
+    "images pasted in/Pasted image 20260529140340.png",
     "images pasted in/circular motion (1).pdf",
+    "Electrons, waves and photons/Waves 2.md",
+    "Electrons, waves and photons/Electrical Circuits.md",
+    "Electrons, waves and photons/Electrons, waves and photons.md",
+    "Forces and Motion.md",
+    "Gases/Gases.md",
+    "Gases/Root mean squared.md",
+    "Particles and medical physics",
     "Newtonian world and Astrophysics",
     "Electrons, waves and photons",
     "Gases",

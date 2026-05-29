@@ -1,4 +1,4 @@
-The wave behaviour of light can be observed by experiments such as Young's double slit experiment ([[Waves 2#Young's double slit experiment]])
+The wave behaviour of light can be observed by experiments such as [[Waves 2#Young's double slit experiment|Young's double slit experiment]]
 
 **The photon model states that electromagnetic energy only exists in certain little packets (quanta)**
 

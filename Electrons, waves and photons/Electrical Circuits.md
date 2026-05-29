@@ -2,7 +2,7 @@
 
 1st law: **For any point in an electrical circuit, the sum of currents into that point is equal to the sum of currents out of that point**
 
-see: [[Charge and current#Kirchoff's 1'st law]]
+see: [[Charge and current#Kirchoff's 1'st law|Kirchoff's 1st Law]]
 
 2nd law: **In any circuit, the sum of the electromotive forces is equal to the sum of p.d. around a closed loop**
 

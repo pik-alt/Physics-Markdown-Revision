@@ -103,7 +103,7 @@ Resistivity is an inherent property of the material
 
 ## Thermistors
 
-A thermistor is made from a semi conductor, which has a lower number density (see [[Charge and current#Mean drift Velocity]]) than metals but higher than insulators.
+A thermistor is made from a semi conductor, which has a lower number density (see [[Charge and current#Mean drift Velocity|Mean drift velocity]]) than metals but higher than insulators.
 
 In semi conductors, number density increases with temperature, so the hotter a thermistor gets, the better a conductor and thus worse resistor it is.
 

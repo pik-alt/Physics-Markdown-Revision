@@ -76,7 +76,7 @@ D = distance between the screen and the slits
 
 This happens when two waves interfere with each other in the right way, or by one wave being generated and reflected back onto itself
 
-https://www.youtube.com/watch?v=ic73oZoqr70
+[Stationary waves animation](https://www.youtube.com/watch?v=ic73oZoqr70)
 Here's a demonstration
 
 The two waves must have the same frequency.

@@ -57,7 +57,8 @@ It's not an additional force added, it's just whatever force is happening to act
 $F=\frac{mv^{2}}{r} \text{(f.b.)} \text{ or } F=m\omega^{2}r$ (f.b.)
 
 This is the image in my notes used for all of these terms
-![[circular motion (1).pdf]]
+
+![[Circular definitions.png|511]]
 
 #### More on Centripetal Force
 
